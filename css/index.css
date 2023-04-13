@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.master-conteiner{
+    width: 70%;
+
+}.section-header-conteiner{
+    background-image: url("../img/imagem-background-homepage.jpg");
+    background-size: auto;
+}
